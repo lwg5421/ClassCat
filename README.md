@@ -39,6 +39,6 @@
 ## 👤 개발자
 
 - **개발자 이름** : 타이머스
-- **GitHub** : [github.com/네아이디](https://github.com/ljmljm5421)
+- **GitHub** : (https://github.com/lwg5421)
 
 ---
